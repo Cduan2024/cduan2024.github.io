@@ -11,6 +11,5 @@ I am a visiting assistant professor (non-tenure track) at University of Massachu
 
 I graduated with PhD in mathematics from University of Maryland-College Park in Summer 2024. My advisors are Prof. [Xuhua He](https://hkumath.hku.hk/~xuhuahe/), HKU and Prof. [Thomas Haines](https://www.math.umd.edu/~tjh/), UMD. Before that I was an undergraduate student at Tsinghua University.
 
-Contact:cduan@umass.edu
-        czduanwork@gmail.com
+Contact: cduan@umass.edu, czduanwork@gmail.com
         
