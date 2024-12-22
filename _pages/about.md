@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am
+I am a visiting assistant professor (non-tenure track) at the university
